@@ -1,6 +1,6 @@
 # 🚀 IA en Acción: Explorando el Futuro de la Inteligencia Artificial
 
-## 📍 Duración: 60-90 min  
+## 📍 Duración: 55 min  
 ## 🎯 Objetivo: Inspirar a los estudiantes mostrando cómo la IA está transformando distintas industrias con demostraciones en vivo.  
 ## 🎤 Formato: Plática con preguntas constantes, ejemplos visuales y demostraciones en vivo en tu dispositivo.  
 
@@ -13,7 +13,7 @@
 
 ---
 
-## **2️⃣ ¿Qué es la Inteligencia Artificial? (10 min)**
+## **2️⃣ ¿Qué es la Inteligencia Artificial? (5 min)**
 ✅ Explicación sencilla de:
 - **IA:** "La habilidad de las computadoras para imitar la inteligencia humana."
 - **Machine Learning:** "IA que aprende a partir de datos."
@@ -24,7 +24,7 @@
 
 ---
 
-## **3️⃣ IA en Programación: Visión por Computadora (15 min)**
+## **3️⃣ IA en Programación: Visión por Computadora (5 min)**
 📌 **Explicación breve:** Cómo la IA ayuda a programadores a analizar imágenes y detectar objetos.  
 
 🔴 **Demostración en vivo:**  
@@ -56,7 +56,7 @@
 
 ---
 
-## **6️⃣ IA en Arquitectura: Creación de Edificios Futuristas (10 min)**
+## **6️⃣ IA en Arquitectura: Creación de Edificios Futuristas (5 min)**
 📌 **Explicación breve:** La IA está revolucionando el diseño arquitectónico.  
 
 🟡 **Demostración en vivo:**  
@@ -78,7 +78,7 @@
 
 ---
 
-## **8️⃣ Reflexión y Cierre (10 min) 🌟**
+## **8️⃣ Reflexión y Cierre (5 min) 🌟**
 ✅ Pregunta final: *Después de ver todas estas aplicaciones, ¿cómo creen que la IA impactará su futuro?*  
 ✅ **Mensaje motivador:** "No se trata de competir contra la IA, sino de aprender a usarla mejor que nadie."  
 
