@@ -9,9 +9,9 @@
 
 Al finalizar la actividad, el docente será capaz de:
 
-✔ Mostrar el funcionamiento de un modelo de IA entrenado con Teachable Machine
-✔ Explicar, con sus propias palabras, cómo se entrena una red neuronal para clasificar objetos
-✔ Proponer un uso pedagógico de su modelo de IA en una materia de secundaria
+- ✔ Mostrar el funcionamiento de un modelo de IA entrenado con Teachable Machine
+- ✔ Explicar, con sus propias palabras, cómo se entrena una red neuronal para clasificar objetos
+- ✔ Proponer un uso pedagógico de su modelo de IA en una materia de secundaria
 
 ---
 
