@@ -18,7 +18,7 @@
 * **Título del proyecto de IA:**
 
 * **Tipo de modelo:**
-  ☐ Imágenes / Rostros ☐ Otros
+  - ☐ Imágenes / Rostros ☐ Otros
 
 * **Clases del modelo entrenado:**
   Ej. “Botella”, “Lata”, “Plástico”
@@ -47,13 +47,13 @@
 * **Competencias a desarrollar:**
   (marcar las que apliquen)
 
-☐ Pensamiento científico
-☐ Resolución de problemas
-☐ Cultura digital
-☐ Conciencia social y ambiental
-☐ Comunicación efectiva
-☐ Arte y creatividad
-☐ Otra: _______
+- ☐ Pensamiento científico
+- ☐ Resolución de problemas
+- ☐ Cultura digital
+- ☐ Conciencia social y ambiental
+- ☐ Comunicación efectiva
+- ☐ Arte y creatividad
+- ☐ Otra: _______
 
 ---
 
