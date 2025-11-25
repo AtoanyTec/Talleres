@@ -73,6 +73,8 @@ Por ejemplo:
 
 Se entrega en formato Word/PDF.
 
+[Liga de plantilla](https://github.com/AtoanyTec/Talleres/blob/main/TercerEncuentroParaProfesores-2025/FichaAplicacion.md)
+
 ---
 
 ## 📋 Entregables
