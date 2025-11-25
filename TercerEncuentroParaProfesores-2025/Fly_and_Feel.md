@@ -97,6 +97,6 @@ Puntaje total: **12 puntos**
 
 ---
 
-## ✨ “Lo que creaste hoy es solo el inicio. Imagina que tus alumnos desarrollen su propia IA para resolver problemas reales en la escuela.”
+**✨ “Lo que creaste hoy es solo el inicio. Imagina que tus alumnos desarrollen su propia IA para resolver problemas reales en la escuela.”**
 
 
