@@ -71,8 +71,6 @@ Por ejemplo:
 | Evaluación                     | ¿Cómo se evalúa el aprendizaje?               |
 | Reflexión ética                | ¿Qué permisos o cuidados se necesitan?        |
 
-Se entrega en formato Word/PDF.
-
 [Liga de plantilla](https://github.com/AtoanyTec/Talleres/blob/main/TercerEncuentroParaProfesores-2025/FichaAplicacion.md)
 
 ---
